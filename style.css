@@ -1,0 +1,9 @@
+h1{
+  color:red;
+  background-color: yellowgreen;
+}
+img{
+  width: 600px;
+  /* height: 600px; */
+  aspect-ratio: 16/9;
+}
